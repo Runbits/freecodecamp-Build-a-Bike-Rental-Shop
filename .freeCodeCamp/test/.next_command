@@ -136,3 +136,4 @@ echo '28 | Mountain'
 echo '28 | Mountain'
 clear
 ./bike-shop.sh
+BIKE_INFO_FORMATTED=$(echo $BIKE_INFO | sed 's/ |/"/')
