@@ -169,3 +169,4 @@ clear
 man sed
 echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
 clear
+./bike-shop.sh
