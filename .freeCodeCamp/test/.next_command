@@ -115,3 +115,12 @@ ls --color=auto -alh
 clear
 psql --username=freecodecamp --dbname=postgres
 ./bike-shop.sh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+./bike-shop.sh
+echo '28 | Mountain'
