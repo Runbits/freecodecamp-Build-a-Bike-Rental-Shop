@@ -77,3 +77,4 @@ touch bike-shop.sh
 clear
 chmos +x bike-shop.sh
 chmod +x bike-shop.sh
+./bike-shop.sh
