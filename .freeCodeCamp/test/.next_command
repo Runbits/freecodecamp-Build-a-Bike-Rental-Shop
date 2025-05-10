@@ -168,3 +168,4 @@ ls --color=auto -alh
 clear
 man sed
 echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
+clear
