@@ -160,3 +160,11 @@ echo "$(echo ' M e ' | sed 's/ *$//g')."
 echo "$(echo ' M e ' | sed 's/| *$//g')."
 echo "$(echo ' M e ' | sed 's/^ *| *$//g')."
 man sed
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+ls --color=auto -alh
+clear
+man sed
+echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
