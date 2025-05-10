@@ -112,3 +112,5 @@ clear
 ./bike-shop.sh
 ls --color=auto -alh
 ./bike-shop.sh
+clear
+psql --username=freecodecamp --dbname=postgres
