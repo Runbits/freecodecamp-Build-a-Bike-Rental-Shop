@@ -171,3 +171,4 @@ echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
 clear
 ./bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
