@@ -111,3 +111,4 @@ ls --color=auto -alh
 clear
 ./bike-shop.sh
 ls --color=auto -alh
+./bike-shop.sh
