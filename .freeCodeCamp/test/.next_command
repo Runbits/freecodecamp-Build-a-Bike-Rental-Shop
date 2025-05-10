@@ -124,3 +124,5 @@ ls --color=auto -alh
 ls --color=auto -alh
 ./bike-shop.sh
 echo '28 | Mountain'
+echo '28 | Mountain'
+echo '28 | Mountain'
