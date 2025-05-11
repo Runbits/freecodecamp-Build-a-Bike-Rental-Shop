@@ -281,3 +281,20 @@ pwd
 pwd
 ./bike-shop.sh
 ./bike-shop.sh
+pg_dump --clean --create --inserts --username=postgres bikes > bikes.sql
+ls --color=auto -alh
+exit
+clear
+git status
+git remote -v
+git remote remove origin
+git remote -v
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/Runbits/freecodecamp-Build-a-Bike-Rental-Shop.git
+git remote -v
+git remote set-url origin https://github.com/Runbits/freecodecamp-Build-a-Bike-Rental-Shop.git
+git config --global user.email
+git config user.email "50782028+Runbits@users.noreply.github.com"
+git add .
