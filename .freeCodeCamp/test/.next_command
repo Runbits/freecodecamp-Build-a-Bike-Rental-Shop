@@ -298,3 +298,8 @@ git remote set-url origin https://github.com/Runbits/freecodecamp-Build-a-Bike-R
 git config --global user.email
 git config user.email "50782028+Runbits@users.noreply.github.com"
 git add .
+git status
+git commit -m
+git commit -m "Project Full 100%"
+git status
+git add .
