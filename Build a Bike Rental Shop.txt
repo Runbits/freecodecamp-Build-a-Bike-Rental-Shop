@@ -2943,17 +2943,4 @@ Congratulations!
 (ctrl + enter)
 
 --- // ---
-
-Github
-https://github.com/Runbits/freecodecamp-Build-a-Bike-Rental-Shop.git
-50782028+Runbits@users.noreply.github.com
-freecodecamp-Build-a-Bike-Rental-Shop
-
-Gitpod
- git remote -v
-coderoad        https://github.com/freeCodeCamp/learn-bash-and-sql-by-building-a-bike-rental-shop (fetch)
-coderoad        https://github.com/freeCodeCamp/learn-bash-and-sql-by-building-a-bike-rental-shop (push)
-origin  https://github.com/freeCodeCamp/learn-bash-and-sql-by-building-a-bike-rental-shop.git (fetch)
-origin  https://github.com/freeCodeCamp/learn-bash-and-sql-by-building-a-bike-rental-shop.git (push)
-
 by RAMV
